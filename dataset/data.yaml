@@ -1,0 +1,9 @@
+names:
+  0: buraco
+  1: faixa de pedestre
+  2: lixo grande
+  3: poste
+  4: vegetacao
+test: images/test
+train: images/train
+val: images/val

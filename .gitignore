@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Arquivos intermediários
+runs/
+*.zip
+yolo11n.pt
+*.pt
+# Precisamos desse!
+!models/sidewalk-yolo11n.pt
+
+# etc
+*.cache
+.DS_Store
+Thumbs.db
+desktop.ini
